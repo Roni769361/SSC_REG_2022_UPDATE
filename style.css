@@ -4,9 +4,11 @@ html{
 
 #reg_form{
     padding: 0px;
-    padding-top: 50px;
+    padding-top: 100px;
     background-image: url("img/grid.png");
 }
+
+
 body{
     padding: 0;
     margin: 0;
