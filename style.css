@@ -36,8 +36,21 @@ body{
 }
 .btn{
     border-width: 2px;
+
 }
+
 section{
     padding: 120px;
     padding-bottom: 120px;
+}
+
+
+.card{
+    transition: .5s;
+    width: 80%;
+    
+
+}
+.card:hover{
+    transform: scale(1.1);
 }
