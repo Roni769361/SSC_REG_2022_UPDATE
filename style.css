@@ -3,7 +3,9 @@ html{
 }
 
 #reg_form{
-    padding-left: 0px;
+    padding: 0px;
+    padding-top: 50px;
+    background-image: url("img/grid.png");
 }
 body{
     padding: 0;
@@ -49,10 +51,15 @@ section{
 
 .card{
     transition: .5s;
-    width: 80%;
+    width: 100%;
     
 
 }
 .card:hover{
     transform: scale(1.1);
+}
+.card_disk{
+    padding: 0px;
+    padding-left: 20px;
+    text-align: center;
 }
